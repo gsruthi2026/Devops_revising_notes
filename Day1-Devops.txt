@@ -1,0 +1,32 @@
+#Day1 Devops series.
+
+
+🔹 1. Stakeholders in a Software Project
+Who are the stakeholders, and what role do they play in a software project?
+
+🔹 2. Software Development Life Cycle (SDLC)
+Exploring the different stages involved in developing and delivering software.
+
+🔹 3. The Need for Multiple Environments
+Understanding DEV, SIT, UAT, PRE-PROD and PROD, and how each environment supports the software delivery process.
+
+🔹 4. Waterfall vs Agile
+Exploring two different approaches to software development and their key differences.
+
+🔹 5. DevOps: Connecting Development & Operations
+Exploring DevOps culture, collaboration, automation and continuous delivery.
+
+🔹 6. Understanding the Move to Cloud
+Exploring cloud computing, its fundamentals, and the reasons organizations adopt cloud technologies.
+
+🔹 7. Computer Fundamentals
+Revisiting the basic building blocks of computing.
+
+🔹 8. Operating System Fundamentals
+Understanding the relationship between the Kernel, Shell and Applications.
+
+🔹 9. Linux & Its Distributions
+Exploring Linux fundamentals and the different Linux distributions.
+
+🔹 10. Client–Server Architecture
+Understanding how clients and servers communicate and work together.

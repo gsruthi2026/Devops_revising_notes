@@ -1,1 +1,9 @@
-📚 Topics I Covered
+Revision — Days 1–4
+
+Day 1: Covered DevOps fundamentals including SDLC, stakeholders, environments, Waterfall vs Agile, Cloud, Linux, OS fundamentals, and Client–Server architecture.
+
+Day 2: Practiced Linux file management, intermediate commands, editors, EC2 & SSH, paths, user/group management, and Linux permissions.
+
+Day 3: Explored Linux administration including employee offboarding, package management, service management, network management, and process management.
+
+Day 4: Learned 3-Tier Client–Server architecture covering Frontend, Backend, Database, DBMS, and RDBMS fundamentals.

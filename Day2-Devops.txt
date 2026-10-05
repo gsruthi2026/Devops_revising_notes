@@ -1,0 +1,41 @@
+🔹 1.Linux File Management –
+   CRUD operations on files & directories
+   touch ,echo, cat, mkdir , ls -l, ls --help, mv ,cp , rm , rm -rf, rmdir 
+
+
+🔹2. Intermediate Commands – 
+  cut, grep, awk, curl, wget, tar, head, tail, pipes
+
+
+🔹3. Editors – 
+  vi, vim, nano
+
+🔹4. EC2 & SSH – 
+  Connecting to Linux servers from Git Bash with key based authentication
+  explored key generation methods on gitbash  and from aws console
+
+
+🔹5.Paths – Absolute vs Relative paths
+ while connecting to ec2 , key path is very important , always absolute path is recommended to avoid file not found error.
+
+
+🔹6.User Management – Users, groups & permissions
+ useradd, groupadd, /etc/passwd ,/etc/group ,
+ /etc/passwd -> user info
+ /etc/group -> group info
+
+usermod -g <group-name> adding to primary group
+usermod -aG <group-name> adding to secondary group . 
+
+
+🔹7.Linux Permissions – chmod file  & chown ownership.
+ Permissions
+ ============
+R -> 4
+W -> 2
+X -> 1
+only owner or root user can only change the permissions to the file
+u			g			o
+Owner		Group		Others
+rw-			r--			r--
+

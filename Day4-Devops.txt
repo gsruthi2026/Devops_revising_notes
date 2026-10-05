@@ -1,0 +1,19 @@
+📚 Topics I Covered
+
+
+🔹 1. 3-Tier Client-Server Architecture
+A common application architecture with three layers:
+Frontend → Backend → Database
+This separation makes applications easier to develop, maintain, scale, and troubleshoot.
+🔹 2. Frontend
+The user-facing layer where users interact with the application.
+Examples: HTML, CSS, JavaScript, React.
+🔹 3. Backend
+The application logic that processes requests, performs operations, and communicates with the database.
+Examples: Java, Python, Node.js.
+🔹 4. Database
+Stores and retrieves application data such as users, transactions, and application records.
+🔹 5. DBMS & RDBMS
+DBMS: Software used to create, manage, and access databases.
+RDBMS: A type of DBMS that stores data in related tables and commonly uses SQL.
+Examples: MySQL, PostgreSQL, Oracle.

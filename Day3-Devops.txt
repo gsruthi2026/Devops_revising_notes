@@ -1,0 +1,19 @@
+ Topics I Covered
+ 
+
+🔹 1. Employee Offboarding Process
+Understanding how user access is removed when an employee leaves — disabling accounts, removing group access, revoking permissions, and securing company resources.
+
+🔹 2. Package Management
+Installing, updating, upgrading, and removing software packages in Linux.
+Examples: apt, yum, dnf
+🔹 3. Service Management
+Managing background services and checking their status.
+Common commands: systemctl start | stop | restart | status |enable |disable
+🔹 4. Network Management
+Working with IP addresses, ports, DNS, connectivity, and network troubleshooting.
+Commands: ip | ping | ss | curl
+🔹 5. Process Management
+Understanding running processes and managing system resources.
+Commands: ps| ps -ef
+| sleep 60 &
